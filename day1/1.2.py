@@ -29,3 +29,17 @@ computation_time = (time.perf_counter() - start_time) * 1_000_000  # Convert to 
 print(f"Time for computations: {computation_time:.2f} microseconds")
 
 print(total)
+
+'''
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 0
+Milliseconds      : 151
+Ticks             : 1514657
+TotalDays         : 1.75307523148148E-06
+TotalHours        : 4.20738055555556E-05
+TotalMinutes      : 0.00252442833333333
+TotalSeconds      : 0.1514657
+TotalMilliseconds : 151.4657
+'''
