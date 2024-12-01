@@ -9,8 +9,6 @@ for x in file:
     list1.append(data[0])
     list2.append(data[3])
 
-list1.sort()
-list2.sort()
 
 for i in range(len(list1)):
     counter = 0
