@@ -5,9 +5,9 @@ list2 = []
 total = 0
 
 for x in file:
-    data = x.split(" ")
+    data = x.split("   ")
     list1.append(data[0])
-    list2.append(data[3])
+    list2.append(data[1])
 
 
 for i in range(len(list1)):
