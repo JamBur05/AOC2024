@@ -30,3 +30,17 @@ for x in list1:
 
 
 print(totalSafe)
+
+'''
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 0
+Milliseconds      : 49
+Ticks             : 496072
+TotalDays         : 5.74157407407407E-07
+TotalHours        : 1.37797777777778E-05
+TotalMinutes      : 0.000826786666666667
+TotalSeconds      : 0.0496072
+TotalMilliseconds : 49.6072
+'''
