@@ -5,7 +5,7 @@
 | [Day 1](./day1/) | :white_check_mark: | :white_check_mark: |
 | [Day 2](./day2/) | :white_check_mark: | :white_check_mark: |
 | [Day 3](./day3/) | :white_check_mark: | :white_check_mark: |
-| Day 4            | :x:                | :x:                |
+| [Day 4](./day4/) | :white_check_mark: | :white_check_mark: |
 | Day 5            | :x:                | :x:                |
 | Day 6            | :x:                | :x:                |
 | Day 7            | :x:                | :x:                |
